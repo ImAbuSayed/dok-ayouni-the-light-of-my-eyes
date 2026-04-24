@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> نار الغرام تشتعل كالدليل
+> خذني في حضنك وذوبني قليل
+> شوقي إليكِ ليس له مثيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
