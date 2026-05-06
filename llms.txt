@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/dok-ayouni-the-light-of-my-eyes/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Dok Ayouni – The Light of My Eyes](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
