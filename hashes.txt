@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dok Ayouni – The Light of My Eyes
+
+This log tracks the cryptographic history and versioning for the song **Dok Ayouni – The Light of My Eyes** (dok-ayouni-the-light-of-my-eyes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:35:51.362005 | `v1` | `54b3aefcfd2bd9982b8ac6e57fc4024921655f543d9cb89712474a54facde85c` | `0c7eb0907f80497ce8e7fc1b6d321af818b912a1a26889b6986638afa42ef8be` | `2026-05-09_dok-ayouni-the-light-of-my-eyes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
